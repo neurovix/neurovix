@@ -2,49 +2,49 @@
 
 # Neurovix
 
-**Desarrollo de software y automatización de procesos con inteligencia artificial.**
+**Software engineering and AI-driven process automation.**
 
-Saltillo, Coahuila, México
+Saltillo, Coahuila, Mexico
 
-[![Sitio](https://img.shields.io/badge/neurovix.tech-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurovix.tech)
-[![Correo](https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neurovix.nv@gmail.com)
+[![Website](https://img.shields.io/badge/neurovix.tech-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurovix.tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neurovix.nv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-vazquezmedina)
 
 </div>
 
 ---
 
-## Quiénes somos
+## Who we are
 
-Neurovix es una empresa mexicana de ingeniería de software. Construimos productos propios y sistemas a la medida para empresas que necesitan dejar de operar con hojas de cálculo: registro de jornada, trazabilidad, inventarios, control de acceso y reportes que resisten una auditoría.
+Neurovix is a Mexican software engineering company. We build our own products and custom systems for companies that are still running on spreadsheets: workday records, traceability, inventory, access control and reports that hold up in an audit.
 
-Combinamos ingeniería cuidada con automatización, para que el software se encargue del trabajo repetitivo y las personas tomen las decisiones.
+We pair careful engineering with automation, so the software takes the repetitive work and people make the decisions.
 
-## Lo que hacemos
+## What we build
 
-- **SaaS multi-tenant.** Plataformas con aislamiento por empresa, roles y permisos, e historial auditable. Nuestro producto actual es **Minuteko**, registro electrónico de jornada alineado a la reforma de la LFT.
-- **Sistemas a la medida.** Trazabilidad de procesos, inventarios, ERP ligeros y portales internos.
-- **Automatización con IA.** Agentes, visión por computadora (identificación facial y detección de ataques de presentación) y procesamiento de documentos.
-- **Infraestructura.** CI/CD, contenedores y despliegues sin servidores que administrar a mano.
+- **Multi-tenant SaaS.** Platforms with per-company isolation, roles and permissions, and an auditable history. Our current product is **Minuteko**, an electronic workday registry aligned with Mexico's LFT reform.
+- **Custom systems.** Process traceability, inventory, lightweight ERPs and internal portals.
+- **AI automation.** Agents, computer vision (face identification and presentation-attack detection) and document processing.
+- **Infrastructure.** CI/CD, containers and deployments without servers to babysit.
 
 ## Stack
 
-| Área | Tecnologías |
+| Area | Technologies |
 |---|---|
 | Frontend | Next.js, React, Astro, TypeScript, Tailwind CSS |
 | Backend | Go, Node.js, Python (FastAPI) |
-| Datos | PostgreSQL, Supabase, SQLite |
-| IA | ONNX Runtime, modelos de visión, APIs de LLM |
-| Infraestructura | AWS, Cloudflare, Docker, GitHub Actions |
+| Data | PostgreSQL, Supabase, SQLite |
+| AI | ONNX Runtime, vision models, LLM APIs |
+| Infrastructure | AWS, Cloudflare, Docker, GitHub Actions |
 
-## Dirección
+## Leadership
 
-**Fernando Vázquez** — CEO y fundador. Ingeniero en Sistemas Computacionales, TECNM Campus Saltillo.
+**Fernando Vázquez** — CEO and founder. Computer Systems Engineer, TECNM Campus Saltillo.
 
-[GitHub](https://github.com/fernandovmedina) · [Portafolio](https://fervazquezdev.com)
+[GitHub](https://github.com/fernandovmedina) · [Portfolio](https://fervazquezdev.com)
 
-## Contacto
+## Contact
 
-- Sitio: [neurovix.tech](https://neurovix.tech)
-- Correo: [neurovix.nv@gmail.com](mailto:neurovix.nv@gmail.com)
-- Ubicación: Saltillo, Coahuila, México
+- Website: [neurovix.tech](https://neurovix.tech)
+- Email: [neurovix.nv@gmail.com](mailto:neurovix.nv@gmail.com)
+- Location: Saltillo, Coahuila, Mexico
