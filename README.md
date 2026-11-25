@@ -6,7 +6,7 @@
 
 Saltillo, Coahuila, Mexico
 
-[![Website](https://img.shields.io/badge/neurovix.tech-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurovix.tech)
+[![Website](https://img.shields.io/badge/neurovix.app-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurovix.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neurovix.nv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-vazquezmedina)
 
@@ -45,6 +45,6 @@ We pair careful engineering with automation, so the software takes the repetitiv
 
 ## Contact
 
-- Website: [neurovix.tech](https://neurovix.tech)
+- Website: [neurovix.app](https://neurovix.app)
 - Email: [neurovix.nv@gmail.com](mailto:neurovix.nv@gmail.com)
 - Location: Saltillo, Coahuila, Mexico
